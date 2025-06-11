@@ -1,0 +1,5 @@
+﻿name=vfg31
+owner_id=EdmsTKiuld
+version=1.0
+secret=07989dda830cfc8c4cecfed120b8a7572d801a73e5aa62920a9c40e0d5d50718
+file_hash=9d47130c7c538d4a91a133efdec378f9cb6b7b15847c2905e12e7cb5e62020d6
